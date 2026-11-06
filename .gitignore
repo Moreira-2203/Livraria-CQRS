@@ -1,0 +1,16 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+.pytest_cache/
+*.log
+
+# Configurações locais
+.vscode/
